@@ -4,12 +4,6 @@
 This is the ANDROID App Capstone Project of the Meta ANDROID Developer Professional Certificate program. It allows users to browse the Little Lemon restaurant's menu on the app.
 
 
-## Authors
-
-- [@eliehanna2](https://www.github.com/eliehanna2)
-
-
-
 ## Design
 
 [![LIttle-Lemon-App-all-screens.png](https://i.postimg.cc/TPXQvK0B/LIttle-Lemon-App-all-screens.png)](https://postimg.cc/Mnd1yKhY)
